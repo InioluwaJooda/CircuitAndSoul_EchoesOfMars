@@ -1,2 +1,2 @@
-# CircuitAndSoul_EchoesOfMars
-Multiplayer sci-fi battle royale prototype built in Unity 6 using Mirror.
+# Echoes Of Mars
+Multiplayer sci-fi battle royale prototype built in Unity 6 using Netcode FOr GameObjects.
